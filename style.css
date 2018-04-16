@@ -1,0 +1,84 @@
+html {
+    background: #95a5a6;
+    background-image: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/dark_embroidery.png);
+    font-family: 'Helvetica Neue', Arial, Sans-Serif;
+}
+* { box-sizing: border-box; margin: 0; padding:0; }
+header{
+    background: chocolate;
+    border: black solid 1px;
+    margin: 10px;
+    padding-left: 10px;
+}
+#par2{
+
+}
+#Ex1 ,#Ex4 {
+    margin: 10px;
+    background: azure;
+    border: black solid 1px;
+    padding: 10px;
+
+}
+#Ex2 {
+    margin: 10px;
+    background:antiquewhite;
+    border: black solid 1px;
+    padding: 10px;
+
+}
+#Ex3 {
+    margin: 10px;
+    background:beige;
+    border: black solid 1px;
+    padding: 10px;
+
+}
+#box {
+    margin-top: 10px;
+    background:blue;
+    border: black solid 1px;
+    padding: 10px;
+
+
+}
+.btn{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.login-wrap {
+    position: relative;
+    margin: 0 auto;
+    background: #ecf0f1;
+    width: 0px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #333;
+    padding: 15px;
+
+}
+
+h2 ,a {
+    text-align: center;
+    font-weight: 200;
+    font-size: 2em;
+    margin-top: 10px;
+    color: #34495e;
+    display: none;
+}
+
+.form {
+    padding-top: 20px;
+}
+
+input[type="text"], input[type="password"], #btn9 {
+
+    outline: 0;
+    -moz-outline-style: none;
+    display: none;
+}
