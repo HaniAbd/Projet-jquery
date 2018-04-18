@@ -13,7 +13,7 @@ header{
 #par2{
 
 }
-#Ex1 ,#Ex4 {
+#Ex1 ,#Ex4 ,#Ex5 {
     margin: 10px;
     background: azure;
     border: black solid 1px;
@@ -34,12 +34,26 @@ header{
     padding: 10px;
 
 }
+#box5 img {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    display: block;
+}
 #box {
+
     margin-top: 10px;
     background:blue;
     border: black solid 1px;
     padding: 10px;
-
+}
+#box5 {
+    width: 500px;
+    height: 500px;
+    margin:auto;
+    margin-top: 10px;
+    background:blue;
+    border: black solid 1px;
 
 }
 .btn{

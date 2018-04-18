@@ -54,7 +54,18 @@ $(document).ready(function () {
         },2000);
 
     });
+    $("#btn10").click(function () {
+        $("img").animate({
+            width:'500px',
+            height:'500'
+        },2000);
 
-
+    });
+    $("#btn11").click(function () {
+        $("img").animate({
+            width:'200px',
+            height:'200'
+        },2000);
+    });
 });
 
